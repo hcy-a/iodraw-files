@@ -2851,100 +2851,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cmkoOkSG756PSXI7J_R_" name="第 19 页">
-    <mxGraphModel dx="1221" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="1646" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-31" value="D:/moxing/Skills/NCBI_skill" style="rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#20343D;strokeColor=#20343D;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=20;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="520" y="35" width="560" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-32" value="入口与元数据" style="swimlane=1;rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;swimlaneFillColor=#FFFFFF;strokeColor=#B6C1C5;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#30444D;align=left;verticalAlign=top;spacingTop=12;spacingLeft=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="175" width="1440" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-33" value="SKILL.md&lt;br/&gt;技能说明与执行规则" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E8F1F5;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-32" vertex="1">
-          <mxGeometry x="128" y="237" width="437" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-34" value="_meta.json&lt;br/&gt;技能元数据" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E8F1F5;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-32" vertex="1">
-          <mxGeometry x="581" y="237" width="437" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-35" value="skill-card.md&lt;br/&gt;调用示例" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#E8F1F5;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-32" vertex="1">
-          <mxGeometry x="1034" y="237" width="437" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#65777D;strokeWidth=1.5;" parent="1" source="EGaf_wDbmKdXphuCf9gx-31" target="EGaf_wDbmKdXphuCf9gx-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-37" value="references/ 参考资料" style="swimlane=1;rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;swimlaneFillColor=#FFFFFF;strokeColor=#B6C1C5;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#30444D;align=left;verticalAlign=top;spacingTop=12;spacingLeft=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="390" width="1440" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-38" value="ncbi_databases.md&lt;br/&gt;NCBI 数据库路由" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3E8;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-37" vertex="1">
-          <mxGeometry x="128" y="452" width="437" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-39" value="accession_rules.md&lt;br/&gt;GSE / SRA 编号规则" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3E8;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-37" vertex="1">
-          <mxGeometry x="581" y="452" width="437" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-40" value="verification_rules.md&lt;br/&gt;验证标准" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#EEF3E8;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-37" vertex="1">
-          <mxGeometry x="1034" y="452" width="437" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#65777D;strokeWidth=1.5;" parent="1" source="EGaf_wDbmKdXphuCf9gx-31" target="EGaf_wDbmKdXphuCf9gx-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-42" value="scripts/ 执行模块" style="swimlane=1;rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;swimlaneFillColor=#FFFFFF;strokeColor=#B6C1C5;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#30444D;align=left;verticalAlign=top;spacingTop=12;spacingLeft=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="620" width="1440" height="275" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-43" value="ncbi_microalgae.py&lt;br/&gt;主 CLI 入口" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="128" y="682" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-44" value="ncbi_client.py&lt;br/&gt;NCBI API 客户端" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="400" y="682" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-45" value="taxonomy.py&lt;br/&gt;物种与 TaxID 解析" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="672" y="682" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-46" value="data_discovery.py&lt;br/&gt;数据发现与分类" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="944" y="682" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-47" value="downloaders.py&lt;br/&gt;非 SRA 数据下载" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="1216" y="682" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-48" value="sra_manager.py&lt;br/&gt;SRA 原始数据下载" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="128" y="778" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-49" value="metadata_writer.py&lt;br/&gt;元数据与清单" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="400" y="778" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-50" value="verifier.py&lt;br/&gt;完整性与遗漏检查" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="672" y="778" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-51" value="cleanup.py&lt;br/&gt;临时文件清理" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="944" y="778" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-52" value="requirements.txt&lt;br/&gt;依赖说明" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F7EFE2;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-42" vertex="1">
-          <mxGeometry x="1216" y="778" width="256" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#65777D;strokeWidth=1.5;" parent="1" source="EGaf_wDbmKdXphuCf9gx-31" target="EGaf_wDbmKdXphuCf9gx-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-54" value="tests/ 离线测试" style="swimlane=1;rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#FFFFFF;swimlaneFillColor=#FFFFFF;strokeColor=#B6C1C5;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#30444D;align=left;verticalAlign=top;spacingTop=12;spacingLeft=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="945" width="1440" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-55" value="test_taxonomy.py&lt;br/&gt;物种解析" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F0EAF3;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-54" vertex="1">
-          <mxGeometry x="128" y="1007" width="256" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-56" value="test_classification.py&lt;br/&gt;实验分类" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F0EAF3;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-54" vertex="1">
-          <mxGeometry x="400" y="1007" width="256" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-57" value="test_naming.py&lt;br/&gt;目录命名" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F0EAF3;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-54" vertex="1">
-          <mxGeometry x="672" y="1007" width="256" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-58" value="test_manifest.py&lt;br/&gt;清单写入" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F0EAF3;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-54" vertex="1">
-          <mxGeometry x="944" y="1007" width="256" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-59" value="test_verifier.py&lt;br/&gt;结果验证" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#F0EAF3;strokeColor=#49616C;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#18252B;align=center;verticalAlign=middle;" parent="EGaf_wDbmKdXphuCf9gx-54" vertex="1">
-          <mxGeometry x="1216" y="1007" width="256" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="EGaf_wDbmKdXphuCf9gx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#65777D;strokeWidth=1.5;" parent="1" source="EGaf_wDbmKdXphuCf9gx-31" target="EGaf_wDbmKdXphuCf9gx-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
